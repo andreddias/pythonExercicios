@@ -4,4 +4,4 @@ Alguns dos exercícios resolvidos do Curso em vídeo [link do curso](https://www
 
 Tabuada utilizando a estrutura de repetição for
 
-Tabuada [tabuada.py](https://github.com/andreddias/pythonExercicios/blob/master/tabuada.py)
+[tabuada.py](https://github.com/andreddias/pythonExercicios/blob/master/tabuada.py)
