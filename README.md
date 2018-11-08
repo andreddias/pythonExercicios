@@ -1,4 +1,7 @@
 # Exercícios resolvidos
 
-Alguns dos exercícios resolvidos do Curso em vídeo [Link do curso](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
+Alguns dos exercícios resolvidos do Curso em vídeo [link do curso](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
 
+# Tabuada utilizando com estrutura de repetição for
+
+Tabuada [tabuada.py](https://github.com/andreddias/pythonExercicios/blob/master/tabuada.py)
