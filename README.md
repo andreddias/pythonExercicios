@@ -20,3 +20,10 @@ Exercício original: Python #006 - Dobro, Triplo, Raiz Quadrada, neste exercíci
 Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores 'M' ou 'F'. Caso esteja errado, peça a digitação novamente até ter um valor correto.
 
 [desafio057.py](https://github.com/andreddias/pythonExercicios/blob/master/desafio057.py)
+
+# Outros
+
+Programa que lê três números e mostre qual é o maior e qual é o menor
+[desafio033.py](https://github.com/andreddias/pythonExercicios/blob/master/desafio033.py)
+
+
