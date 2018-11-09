@@ -26,4 +26,7 @@ Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores 'M' o
 Programa que lê três números e mostra qual é o maior e qual é o menor
 [desafio033.py](https://github.com/andreddias/pythonExercicios/blob/master/desafio033.py)
 
+Programa que lê o peso e a altura e calcula o imc
+[desafio043.py](https://github.com/andreddias/pythonExercicios/blob/master/desafio043.py)
+
 
