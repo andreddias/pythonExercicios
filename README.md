@@ -1,7 +1,7 @@
 # Exercícios resolvidos
 
-Link do canal [curso em vídeo](https://www.youtube.com/user/cursosemvideo/),
-abaixo segue alguns dos exercícios resolvidos [link dos exercícios](https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
+Fonte: [curso em vídeo](https://www.youtube.com/user/cursosemvideo/),
+Alguns dos exercícios resolvidos: [link dos exercícios](https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
 
 # Tabuada de multiplicar
 
